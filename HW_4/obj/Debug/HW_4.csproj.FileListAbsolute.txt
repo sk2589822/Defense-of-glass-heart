@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\bin\Debug\HW_4.exe.config
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\bin\Debug\HW_4.exe
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\bin\Debug\HW_4.pdb
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.Form1.resources
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.exe
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.pdb
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\obj\Debug\HW_4.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\我的文件\雲科\大二\計算機演算法\HW_4\HW_4\bin\Debug\AxInterop.WMPLib.dll
